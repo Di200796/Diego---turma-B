@@ -1,0 +1,21 @@
+ideia inicial:
+fazer uma página de cadastro sobre quadrinhos antigos
+(acervo);     (prioridade)
+
+fazer um banco de dados que armazene as informações dos clientes.
+(fazer logo após de terminar a página de cadastro)
+
+campos de cadastro
+nome
+endereço
+cep
+bairro
+
+login
+senha
+entrar
+
+
+tag Nav - Navegação de páginas (links) dentro da tag Header;
+tag LI - Listas não ordenadas (pode ser colocada dentro da Tag Header).
+tag UL - Organizador de listas não ordenadas.

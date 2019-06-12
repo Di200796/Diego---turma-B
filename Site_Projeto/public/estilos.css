@@ -1,0 +1,94 @@
+.design {
+    background-color: rgb(25, 25, 112); 
+    height: 50px;
+    width: 100%;
+    margin-bottom: 0%;
+    padding-bottom: 15px;
+    
+}
+.estilo {
+    text-align: center;
+    color: white;
+}
+
+
+body {
+    background-color: rgb(91, 91, 170);
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+    
+     
+
+}
+
+.tela_login {
+    margin-bottom: auto;
+    color: white;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+.nanquim {
+    margin-top: auto;
+    color: white;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+
+.login {
+    background: rgb(25, 25, 112);
+    border-radius: 20px;
+    text-align: center;
+    margin: 50%;
+    margin-top: 16%;
+    margin-bottom: 0%;
+    float: center;
+    padding: 18px;
+    padding-bottom: 16px;
+    margin-left: 42%;
+    width: 15%;
+    position: absolute;
+
+}
+.botao {
+    border-radius: 100px;
+    outline: none;
+    font-size: 16px;
+    margin-right: 20px;
+    
+}
+
+.botao_01 {
+    border-radius: 100px;
+    outline: none;
+    font-size: 16px;
+    
+
+
+}
+
+button a:visited {
+    color: black;
+}
+
+.log {
+    border-radius: 5px;
+    width: 100%;
+    font-size: 15px;
+}
+
+.log01 {
+    border-radius: 5px;   
+    width: 100%;
+    font-size: 15px;
+
+}
+
+.pagina {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+

@@ -1,0 +1,179 @@
+.design {
+    background-color: rgb(25, 25, 112); 
+    height: 50px;
+    width: 100%;
+    margin-bottom: 0%;  
+    padding-bottom: 15px;
+}
+
+.estilo {
+    text-align: center;
+    color:white;
+}
+
+body {
+    margin: 0%;
+    background:  rgb(91, 91, 170);
+    background-image: url(Imagens/marvel.jpg);
+    height: 100%;
+    width: 100%;
+
+}
+
+.imagem img {
+    max-width: 400px;
+    max-height: 613px;
+    width: auto;
+    height: auto;
+    margin-top: 71px;
+    margin-left: 10px;
+
+}
+
+.imagem_01 img {
+    max-width: 400px;
+    max-height: 613px;
+    width: auto;
+    height: auto;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.imagem_02 img {
+    max-width: 400px;
+    max-height: 613px;
+    width: auto;
+    height: auto;
+    margin-top: auto;
+    margin-left: 25px;
+}
+
+.imagem_03 img {
+    max-width: 400px;
+    max-height: 660px;
+    width: auto;
+    height: auto;
+    margin-top: 25px;
+    margin-left: 12px;
+
+}
+
+.imagem_04 img {
+    max-width: 400px;
+    max-height: 613px;
+    width: auto;
+    height: auto;
+    margin-top: 27px;
+    margin-left: 9px;
+}
+
+.imagem_05 img {
+    max-width: 400px;
+    max-height: 613px;
+    width: auto;
+    height: auto;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.imagem_06 img {
+    max-width: 500px;
+    max-height: 613px;
+    width: auto;
+    height: auto;
+    margin-left: 11px;
+    margin-top: 12px;
+
+}
+
+.imagem_07 img {
+    max-width: 400px;
+    max-height: 613px;
+    width: auto;
+    height: auto;
+    margin-left: 9px;
+    margin-top: 10px;
+}
+
+.imagem_08 img {
+    max-width: 400px;
+    max-height: 613px;
+    width: auto;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 9px;
+}
+
+.imagem {
+    float: left;
+    width: 33%;
+    
+}
+
+.imagem_01 {
+    float: left;
+    width: 33%;
+}
+
+.imagem_02 {
+    float: left;
+    width: 33%;
+}
+
+.imagem_03 {
+    float: right;
+    width: 33%;
+}
+
+.imagem_04 {
+    float: left;
+    width: 33%;
+}
+
+.imagem_05 {
+    float: left;
+    width: 33%;
+}
+
+.imagem_06 {
+    float: right;
+    width: 33%;
+}
+
+.imagem_07 {
+    float: left;
+    width: 33%;
+}
+
+.imagem_08 {
+    float: left;
+    width: 33%;
+}
+
+
+.nanquim_02 {
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 11.5%;
+    color: white;
+}
+
+.principal {
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 11.5%;
+    color: white;
+}
+
+.botao_04 {
+    border-radius: 100px;
+    outline: none;
+    font-size: 16px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+a:visited {
+    color: inherit;
+}
+

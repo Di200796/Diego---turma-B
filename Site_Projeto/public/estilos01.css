@@ -1,0 +1,118 @@
+.design {
+    background-color: rgb(25, 25, 112); 
+    height: 50px;
+    width: 100%;
+    margin-bottom: 0%;
+    padding-bottom: 15px;
+    
+    
+
+}
+.estilo {
+    text-align: center;
+    color: white;
+    
+   
+}
+
+
+body {
+    background:  rgb(91, 91, 170);
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+}
+
+.nanquim_01 {
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    color: white;
+
+}
+
+
+.tela_cadastro {
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    color: white;
+     
+}
+
+
+
+.info {
+    background: rgb(25, 25, 112);
+    border-radius: 20px;
+    text-align: center;
+    margin: 50%;
+    margin-top: 18%;
+    margin-bottom: 0%;
+    margin-left: 39%;
+    float: center;
+    padding: 19px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-right: 120px;
+    width: 15%;
+    position: absolute;
+
+}
+
+.botao_02 {
+    border-radius: 100px;
+    outline: none;
+    font-size: 16px;
+    text-align: center;
+    margin-right: 40px;
+}
+
+.botao_03 { 
+    border-radius: 100px;
+    outline: none;
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+a:visited {
+    color: inherit;
+}
+
+.borda {
+    border-radius: 5px;
+    width: 150%;
+    font-size: 15px;
+}
+
+.borda_01 {
+    border-radius: 5px;
+    width: 150%;
+    font-size: 15px;
+}
+
+.borda_02 {
+    border-radius: 5px;
+    width: 150%;
+    font-size: 15px;
+}
+
+.borda_03 {
+    border-radius: 5px;
+    width: 150%;
+    font-size: 15px;
+
+}
+
+.borda_04 {
+    border-radius: 5px;
+    width: 150%;
+    font-size: 15px;
+}
+
+.pagina_01 {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
