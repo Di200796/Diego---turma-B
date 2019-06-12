@@ -13,7 +13,7 @@
     <div class="design">
             <header class="estilo">
                 <button type="button" onclick="logout()" class="botao_04">
-                <a href="Login.html" style="text-decoration: none">Encerrar Sessão</a>
+                <a href="index.html" style="text-decoration: none">Encerrar Sessão</a>
                 </button>
                     <h1 class="nanquim_02"><b>#HQRETRÔ</b></h1>
                     <h2 class="principal"><b>Home Page</b></h2>
@@ -70,3 +70,11 @@
 <!-- colocar uma imagem de fundo, remetendo-se a quadrinhos (ação) (atrás das capas de quadrinhos)-->
 <!-- ok -->
 </html>
+<script>
+
+function logout() {
+        sessionStorage.removeItem('usuario_bandtec');
+        verificarAutenticacao();
+    }
+
+</script>
